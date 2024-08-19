@@ -1,8 +1,12 @@
 # 📝 Hashnode Backup Repository
 
-
-
 📚 This repository is a backup storage for my blog posts from [Hashnode](https://chunhthanhde.hashnode.dev/). It serves as a place to store and safeguard my writings in case of any unforeseen circumstances.
+
+<be>
+  
+![screenshot](media/screenshot.png)
+
+<be>
 
 ## 📌 Purpose
 
@@ -31,7 +35,4 @@ For any questions or inquiries, please reach out to me at [chunhthanhde.dev@gmai
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
-Hãy đảm bảo bạn cập nhật URL của repo GitHub nếu nó khác với `https://github.com/ChunhThanhDe/hashnode-backup.git`.
+See the [LICENSE](LICENSE) file for more details.
