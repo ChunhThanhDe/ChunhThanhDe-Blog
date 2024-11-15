@@ -132,10 +132,6 @@ Cứ như vậy, ta đọc nhiều hơn, ta nhận nhiều hơn và quan trọng
 
 ...
 
-Sure, here is the markdown version of your text:
-
----
-
 ### Sau cùng 🌱
 
 Để nuôi dưỡng tâm hồn bản thân, bạn hãy giữ cho mình thói quen đọc sách thường xuyên. Từ đó hãy hình thành cho mình một lối sống tốt. Khám phá những kiến thức mới lạ, tìm cho bản thân những gu quen thuộc mà ngấu nghiến.
