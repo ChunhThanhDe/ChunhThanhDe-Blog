@@ -7,7 +7,6 @@ cuid: clzxvpfat000009l3cg245col
 slug: cach-de-bat-dau-tro-thanh-mot-vintageman
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/t3zrEm88ehc/upload/9e0062ec89633daa776b6c2f0383cb99.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723883354381/b452a420-2e7e-4dfb-88cb-02a23dbe1303.jpeg
-tags: lifestyle, chunhthanhde, chung-nguyen-thanh, vintagelife
 
 ---
 
