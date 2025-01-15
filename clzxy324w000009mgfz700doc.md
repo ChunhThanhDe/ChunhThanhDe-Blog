@@ -7,7 +7,6 @@ cuid: clzxy324w000009mgfz700doc
 slug: neu-tin-rang-cac-pham-chat-cua-minh-la-co-dinh
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fwv_D1_MEdw/upload/65363727c0e94036a7a8aa6e2b7a68e6.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723887426619/31f657f5-1c73-4079-87c7-0e7d1e714c62.webp
-tags: lifestyle, chunhthanhde, chung-nguyen-thanh, vintagelife
 
 ---
 
