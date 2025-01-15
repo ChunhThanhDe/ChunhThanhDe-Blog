@@ -1,5 +1,5 @@
 ---
-title: "Cách để bắt đầu trở thành một VintageMan 🎩"
+title: "Trở thành một VintageMan 🎩"
 seoTitle: "Cách để bắt đầu trở thành một VintageMan 🎩"
 seoDescription: "Theo quan điểm cá nhân của mình, cuộc sống của bạn thay đổi như thế nào phụ thuộc vào những thói quen bạn làm hàng ngày."
 datePublished: Sat Feb 01 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
