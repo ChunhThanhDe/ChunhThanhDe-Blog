@@ -2,7 +2,7 @@
 title: "Tôi là một người sống với quá khứ, với những kỉ niệm thưa thớt của một tuổi trẻ nghịch ngợm. Chúng đi cùng tôi. Chúng mang cho tôi niềm vui, nỗi buồn."
 seoTitle: "Lối sống Vintage của tôi 🌿"
 seoDescription: "Tôi là một người sống với quá khứ, với những kỉ niệm thưa thớt của một tuổi trẻ nghịch ngợm. Chúng đi cùng tôi. Chúng mang cho tôi niềm vui, nỗi buồn."
-datePublished: Tue Sep 22 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Fri May 22 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxxnn4f000508jlczzs46u7
 slug: toi-la-mot-nguoi-song-voi-qua-khu-voi-nhung-ki-niem-thua-thot-cua-mot-tuoi-tre-nghich-ngom-chung-di-cung-toi-chung-mang-cho-toi-niem-vui-noi-buon
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/F-B7kWlkxDQ/upload/e6836e096a297eed72dcf5e4f65e2aac.jpeg
