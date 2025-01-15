@@ -1,7 +1,6 @@
 ---
 title: "Bài viết này mình muốn chỉ ra cho các bạn về một cách để bạn có thể cưa đổ người "thương" của mình hay còn gọi là crush. 😘"
-seoTitle: "Cưa Đổ Crush Của Bạn Theo Phong Cách Của Vintagelife 💕
-"
+seoTitle: "Cưa Đổ Crush Của Bạn Theo Phong Cách Của Vintagelife 💕"
 seoDescription: "Bài viết này mình muốn chỉ ra cho các bạn về một cách để bạn có thể cưa đổ người "thương" của mình hay còn gọi là crush. 😘"
 datePublished: Sat Aug 17 2024 08:51:03 GMT+0000 (Coordinated Universal Time)
 cuid: clzxwf2zl000709l21i1jcaow
