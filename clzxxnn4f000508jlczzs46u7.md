@@ -1,6 +1,6 @@
 ---
 title: "Tôi là một người sống với quá khứ, với những kỉ niệm thưa thớt của một tuổi trẻ nghịch ngợm. Chúng đi cùng tôi. Chúng mang cho tôi niềm vui, nỗi buồn."
-seoTitle: " Lối sống Vintage của tôi 🌿"
+seoTitle: "Lối sống Vintage của tôi 🌿"
 seoDescription: "Tôi là một người sống với quá khứ, với những kỉ niệm thưa thớt của một tuổi trẻ nghịch ngợm. Chúng đi cùng tôi. Chúng mang cho tôi niềm vui, nỗi buồn."
 datePublished: Tue Sep 22 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxxnn4f000508jlczzs46u7
