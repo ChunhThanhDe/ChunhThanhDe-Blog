@@ -5,7 +5,7 @@ seoDescription: "Tôi là một người sống với quá khứ, với những 
 datePublished: Fri May 22 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxxnn4f000508jlczzs46u7
 slug: toi-la-mot-nguoi-song-voi-qua-khu-voi-nhung-ki-niem-thua-thot-cua-mot-tuoi-tre-nghich-ngom-chung-di-cung-toi-chung-mang-cho-toi-niem-vui-noi-buon
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/F-B7kWlkxDQ/upload/e6836e096a297eed72dcf5e4f65e2aac.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/DfpL5a1jJak/upload/f8354b63292fd9da0d109d3cdd16065d.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723886704634/391459ad-3951-475b-be58-901c585498ee.webp
 
 ---
