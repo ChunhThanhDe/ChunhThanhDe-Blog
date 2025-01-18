@@ -5,7 +5,7 @@ seoDescription: "Nếu tin rằng các phẩm chất của mình là cố địn
 datePublished: Thu Oct 29 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxy324w000009mgfz700doc
 slug: neu-tin-rang-cac-pham-chat-cua-minh-la-co-dinh
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fwv_D1_MEdw/upload/65363727c0e94036a7a8aa6e2b7a68e6.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pUAuMUw4ny4/upload/c1db02a3de445a8a6f987a970d57242f.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723887426619/31f657f5-1c73-4079-87c7-0e7d1e714c62.webp
 
 ---
