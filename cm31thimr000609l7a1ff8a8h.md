@@ -3,7 +3,7 @@ title: "3 bài học tôi học được từ các anh chị SWE mà tôi làm v
 datePublished: Sun Nov 03 2024 16:39:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm31thimr000609l7a1ff8a8h
 slug: 3-bai-hoc-toi-hoc-duoc-tu-cac-anh-chi-swe-ma-toi-lam-viec-cung-trong-nhung-nam-dau-cua-su-nghiep
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KVOCcICzgUQ/upload/138de9830a85f054fd037c41da25c5d7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NIJuEQw0RKg/upload/69c3ea6f0656e8dc3713b2c230187e59.jpeg
 tags: lessons, developer, learning, smart-development, chunhthanhde, chung-nguyen-thanh, nguyen-thanh-chung, chunhthanhde-blog
 
 ---
