@@ -5,7 +5,7 @@ seoDescription: "Bản chất con người chúng ta luôn thích cảm giác c�
 datePublished: Wed Apr 15 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxm41sz00010alidcfu085c
 slug: moi-tuan-mot-cuon-sach-tai-sao-khong
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cwGk-u9PHOo/upload/e6fe2490351db1c5729e61a17074217e.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_nm_mZ4Cs2I/upload/97c66952fc57718805384f679c3b87f1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723870852207/4a4c5bda-bd01-49ab-8d10-695c59dc4d4b.jpeg
 tags: lifestyle, vietnamese, chunhthanhde, chung-nguyen-thanh, vintagelife
 
