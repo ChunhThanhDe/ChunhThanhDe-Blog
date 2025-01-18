@@ -1,8 +1,8 @@
 ---
-title: "3 Lessons from the Smartest Developers I’ve Worked With"
+title: "3 bài học tôi học được từ các anh chị SWE mà tôi làm việc cùng trong những năm đầu của sự nghiệp 🐣"
 datePublished: Sun Nov 03 2024 16:39:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm31thimr000609l7a1ff8a8h
-slug: 3-lessons-from-the-smartest-developers-ive-worked-with
+slug: 3-bai-hoc-toi-hoc-duoc-tu-cac-anh-chi-swe-ma-toi-lam-viec-cung-trong-nhung-nam-dau-cua-su-nghiep
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KVOCcICzgUQ/upload/138de9830a85f054fd037c41da25c5d7.jpeg
 tags: lessons, developer, learning, smart-development, chunhthanhde, chung-nguyen-thanh, nguyen-thanh-chung, chunhthanhde-blog
 
