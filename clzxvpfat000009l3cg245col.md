@@ -5,7 +5,7 @@ seoDescription: "Theo quan điểm cá nhân của mình, cuộc sống của b�
 datePublished: Sat Feb 01 2020 17:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clzxvpfat000009l3cg245col
 slug: cach-de-bat-dau-tro-thanh-mot-vintageman
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/t3zrEm88ehc/upload/9e0062ec89633daa776b6c2f0383cb99.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8DMuvdp-vso/upload/f8c6128575087872e0a90b11e964d747.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723883354381/b452a420-2e7e-4dfb-88cb-02a23dbe1303.jpeg
 
 ---
