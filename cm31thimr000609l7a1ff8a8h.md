@@ -1,5 +1,5 @@
 ---
-title: "3 bài học tôi học được từ các anh chị SWE mà tôi làm việc cùng trong những năm đầu của sự nghiệp 🐣"
+title: "3 bài học tôi học được từ các anh chị SWE mà tôi làm việc cùng trong những năm đầu của sự nghiệp 🐣 (bản dịch)"
 datePublished: Sun Nov 03 2024 16:39:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm31thimr000609l7a1ff8a8h
 slug: 3-bai-hoc-toi-hoc-duoc-tu-cac-anh-chi-swe-ma-toi-lam-viec-cung-trong-nhung-nam-dau-cua-su-nghiep
