@@ -7,6 +7,7 @@ cuid: clzxvpfat000009l3cg245col
 slug: cach-de-bat-dau-tro-thanh-mot-vintageman
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8DMuvdp-vso/upload/f8c6128575087872e0a90b11e964d747.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723883354381/b452a420-2e7e-4dfb-88cb-02a23dbe1303.jpeg
+tags: chunhthanhde, chung-nguyen-thanh, nguyen-thanh-chung, chunhthanhde-blog
 
 ---
 
